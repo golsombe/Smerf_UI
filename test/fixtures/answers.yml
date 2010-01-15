@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  code: 1
+  answer_text: MyString
+  sort_order: 1
+  default_answer: 
+
+two:
+  name: MyString
+  code: 1
+  answer_text: MyString
+  sort_order: 1
+  default_answer: 

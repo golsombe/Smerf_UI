@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  welcome: MyString
+  thank_you: MyString
+  group_sort_order_field: MyString
+
+two:
+  name: MyString
+  welcome: MyString
+  thank_you: MyString
+  group_sort_order_field: MyString

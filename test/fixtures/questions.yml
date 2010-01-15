@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  code: MyString
+  question_type_id: 1
+  sort_order: 1
+  header: MyString
+  question_text: MyString
+  textfield_size: MyString
+  validation_text: MyString
+  help_text: MyString
+
+two:
+  name: MyString
+  code: MyString
+  question_type_id: 1
+  sort_order: 1
+  header: MyString
+  question_text: MyString
+  textfield_size: MyString
+  validation_text: MyString
+  help_text: MyString

@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  base_form_id: 1
+  group_name: MyString
+  code: 1
+  long_name: MyString
+  desc: MyString
+  question_sort_order_field: MyString
+
+two:
+  base_form_id: 1
+  group_name: MyString
+  code: 1
+  long_name: MyString
+  desc: MyString
+  question_sort_order_field: MyString
